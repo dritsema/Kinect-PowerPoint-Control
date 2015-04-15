@@ -1,6 +1,8 @@
 ### Kinect for Windows Hardware and Software Requirements  
 
-The Kinect for Windows SDK, as its name suggests, only runs in a Windows environment.  Specifically, it runs on x86 and x64 versions of Windows 7.  Compatibility with Windows 8 has not been tested as of this writing.  Because Kinect was designed for Xbox hardware, it requires roughly similar hardware on a PC to run effectively.  
+The Kinect for Windows SDK, as its name suggests, only runs in a Windows environment.  
+
+Specifically, it runs on x86 and x64 versions of Windows 7.  Compatibility with Windows 8 has not been tested as of this writing.  Because Kinect was designed for Xbox hardware, it requires roughly similar hardware on a PC to run effectively.  
 
 Hardware Requirements
 *	Dual-core, 2.66-GHz or faster processor
